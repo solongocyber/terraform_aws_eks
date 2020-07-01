@@ -24,7 +24,3 @@ For a complete example, see examples/complete.
 
 For automated tests of the complete example using bats and Terratest (which tests and deploys the example on AWS), see test.
 
-Other examples:
-
-terraform-root-modules/eks - Cloud Posse's service catalog of "root module" invocations for provisioning reference architectures
-terraform-root-modules/eks-backing-services-peering - example of VPC peering between the EKS VPC and backing services VPC
